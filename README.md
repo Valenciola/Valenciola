@@ -2,7 +2,7 @@
 Valenciola/Valenciola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Markdown is pretty interesting, wouldn't you say?
+### Markdown is pretty interesting, wouldn't you say?
 
 - 👋 Hi, I’m @Valenciola
 - 👀 I’m interested in coding, making music, writing stories, and the like

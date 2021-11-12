@@ -11,9 +11,10 @@ You can click the Preview link to take a look at your changes.
 ---
 ### Boring GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Valenciola&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
+<br>
 > Have a great day :)
-<br />
+<br>
+
 ```JavaScript
 var level = 2;
 var status = "informed smart programmer kid?";

@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 ---
 > Have a great day :)
 ---
-`Level 1`
+`Level 2`
 <br>
-`var Valenciola = "programmer kid?";`
+`var Valenciola = "informed programmer kid";`
+<br>
+`Achievement Get!: Study Markdown Syntax`

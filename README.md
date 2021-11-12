@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 ---
 > Have a great day :)
 ---
-`Level 2`
-<br>
-`var Valenciola = "informed programmer kid";`
-<br>
-`Achievement Get!: Study Markdown Syntax`
+```JavaScript
+var level = 2;
+var status = "informed smart programmer kid?";
+var latestAchievement = "Mastered Markdown Syntax"
+```

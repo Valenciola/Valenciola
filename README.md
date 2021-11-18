@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ```JavaScript
-var level = 2;
-var status = "informed smart programmer kid?";
-var latestAchievement = "Mastered Markdown Syntax"
+var level = 3;
+var status = "Programming Protégé";
+var latestAchievement = "Getting the Gist"
 ```

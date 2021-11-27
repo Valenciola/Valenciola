@@ -17,3 +17,5 @@ var level = 3;
 var status = "Programming Protégé";
 var latestAchievement = "Getting the Gist"
 ```
+
+Thanks @RealStr1ke :)

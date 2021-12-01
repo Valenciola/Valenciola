@@ -13,9 +13,9 @@
 <br>
 
 ```JavaScript
-var level = 3;
-var status = "Programming Protégé";
-var latestAchievement = "Getting the Gist"
+var level = 4;
+var status = "Smart Programmer Kid";
+var latestAchievement = "Solving My Own Problems";
 ```
 
 Thanks @RealStr1ke :)

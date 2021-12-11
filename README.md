@@ -16,6 +16,7 @@
 var level = 4;
 var status = "Smart Programmer Kid";
 var latestAchievement = "Solving My Own Problems";
+var nextGoal = "Learn to create DOM animations and learn more about the DOM overall!";
 ```
 
 Thanks @RealStr1ke :)

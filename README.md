@@ -6,7 +6,7 @@
 - I'm trying to see if I can become a *cool smart programmer kid* :]
 ---
 ### Cool GitHub Stats and Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Valenciola&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valenciola&theme=flat&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 ![Valenciola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valenciola&show_icons=true&theme=tokyonight&hide_border=true)
 <br>
 > Have a great day :)

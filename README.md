@@ -18,5 +18,6 @@ var status = "Smart Programmer Kid";
 var latestAchievement = "Solving My Own Problems";
 var nextGoal = "Learn to create DOM animations and learn more about the DOM overall!";
 ```
+If we're speaking analytically in terms of my profile picture, the light purple represents light-heartedness, and the raised eyebrow and lack of a smile represents thought and curiosity. *It's all intentional.*
 
 Thanks @RealStr1ke :)

@@ -16,7 +16,7 @@
 var level = 4.5;
 var status = "Proficient Programmer Protégé";
 var latestAchievement = "Never Giving Up";
-var nextGoal = "Become proficient in making DOM animations and finally fixing my text engine...";
+var nextGoal = "Become proficient in making DOM animations and finally fix my text engine...";
 ```
 Maybe I'll learn Java sometime soon...
 

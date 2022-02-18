@@ -13,11 +13,11 @@
 <br>
 
 ```JavaScript
-var level = 4;
-var status = "Smart Programmer Kid";
-var latestAchievement = "Solving My Own Problems";
-var nextGoal = "Learn to create DOM animations and learn more about the DOM overall!";
+var level = 4.5;
+var status = "Proficient Programmer Protégé";
+var latestAchievement = "Never Giving Up";
+var nextGoal = "Become proficient in making DOM animations and finally fixing my text engine...";
 ```
-If we're speaking analytically in terms of my profile picture, the light purple represents light-heartedness, and the raised eyebrow and lack of a smile represents thought and curiosity. *It's all intentional.*
+Maybe I'll learn Java sometime soon...
 
 Thanks @RealStr1ke :)

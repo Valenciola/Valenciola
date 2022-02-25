@@ -1,4 +1,5 @@
 ### Markdown is pretty interesting, wouldn't you say?
+> **RealStr1ke:** _no_
 ---
 - 👋 Hi, I’m @Valenciola
 - 👀 I’m interested in coding, making music, writing stories, and the like
@@ -21,3 +22,4 @@ var nextGoal = "Become proficient in making DOM animations and finally fix my te
 Maybe I'll learn Java sometime soon...
 
 Thanks @RealStr1ke :)
+> **RealStr1ke:** _You're not welcome._

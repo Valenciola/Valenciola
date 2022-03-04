@@ -13,11 +13,11 @@
 <br>
 
 ```JavaScript
-var level = 4.5;
-var status = "Proficient Programmer Protégé";
-var latestAchievement = "Never Giving Up";
-var nextGoal = "Become proficient in making DOM animations and finally fix my text engine...";
+var level = 5;
+var status = "Smart Programmer Protégé";
+var latestAchievement = "Working Around It";
+var nextGoal = "Work on making my text engine work for me";
 ```
-Maybe I'll learn Java sometime soon...
+:D
 
 Thanks @RealStr1ke

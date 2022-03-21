@@ -13,11 +13,11 @@
 <br>
 
 ```JavaScript
-var level = 5;
-var status = "Smart Programmer Protégé";
-var latestAchievement = "Working Around It";
-var nextGoal = "Work on making my text engine work for me";
+var level = 5.5;
+var status = "Simultaneously Street-Smart Programmer Protégé";
+var latestAchievement = "W3Schools Research with Friends";
+var nextGoal = "Implement my text engine into the web display :D";
 ```
-:D
+My text engine works, and it's making me feel pretty good. Now, I can go on to the next step of implementation!
 
 Thanks @RealStr1ke

@@ -1,4 +1,4 @@
-<h2 align="center">Welcome :D</h2>
+<h2 align="center">:star:  Welcome :D  :star:</h2>
 
 ---
 I'm Valenciola! I do things mostly related to JavaScript and web development. I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? Anyway I think I do cool stuff and I have fun :D

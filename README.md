@@ -18,6 +18,8 @@ var nextGoal = "Animation with motion technique";
 ```
 In games, I need to be able to animate moving objects for design and walk cycles. Of course, I need to make a program to animate first...
 
+**Striving to learn some new programming stuff**
+
 Thanks @RealStr1ke
 
 <br>

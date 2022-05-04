@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
     <br>
     Anyway I think I do cool stuff and I have fun :D
     <br>
-    Striving to learn some new programming stuff
 </strong>
+    (Striving to learn some new programming stuff...)
 </p>
 
 > In games, I need to be able to animate moving objects for design and walk cycles. Of course, I need to make a program to animate first...
@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 _Thanks @RealStr1ke_
 
 <br>
+
 
 > Have a great day :)
 

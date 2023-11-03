@@ -8,19 +8,19 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><strong>
     I'm Valenciola!
     <br>
-    I do things mostly related to JavaScript and web development. 
+    I do things mostly related to JavaScript and web development. Lately, though, I've been learning some new languages. 
     <br>
-    I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? 
+    I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? Also I solve code puzzles sometimes :D
     <br>
-    Anyway I think I do cool stuff and I have fun :D
+    Anyway I think I do cool stuff and I have fun (after the debugging stage of course) :D
     <br>
 </strong>
-    (Striving to learn some new programming stuff...)
+    (Learning some new programming stuff...)
 </p>
 
-> In games, I need to be able to animate moving objects for design and walk cycles. Of course, I need to make a program to animate first...
+> I'm currently leaning C++ and Python and learning how to dodge the issues by running into them (it sounds counterintuitive but it works)
 
-*I might just be a cool smart programmer kid yet-*
+*I think I am a cool smart programmer kid*
 
 <hr>
 

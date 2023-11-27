@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 > I'm currently leaning C++ and Python and learning how to dodge the issues by running into them (it sounds counterintuitive but it works)
 
-*~~I think~~ I am a cool smart programmer kid*
+*I think I am a cool smart programmer kid*
 
 <hr>
 

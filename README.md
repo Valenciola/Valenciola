@@ -3,7 +3,7 @@ Valenciola/Valenciola is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">:star:  Welcome :D  :star:</h2>
+<h2 align="center">⭐  Welcome :D  ⭐</h2>
 
 <p align="center"><strong>
     I'm Valenciola!

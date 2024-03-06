@@ -8,17 +8,17 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><strong>
     I'm Valenciola!
     <br>
-    I do things mostly related to JavaScript and web development. Lately, though, I've been learning some new languages. 
+    I did things mostly related to JavaScript and web development. Now I've seen a multitude of programming languages, and I'm trying to figure out which one to keep the most knowledge in. 
     <br>
     I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? Also I solve code puzzles sometimes :D
     <br>
     Anyway I think I do cool stuff and I have fun (after the debugging stage of course) :D
     <br>
 </strong>
-    (Learning some new programming stuff...)
+    (Still learning some new programming stuff...)
 </p>
 
-> I'm currently leaning C++ and Python and learning how to dodge the issues by running into them (it sounds counterintuitive but it works)
+> I'm currently focusing on web development and (soon) PHP. It's the kind of stuff I used to do when I was younger, so it's coming along pretty easily.
 
 *I think I am a cool smart programmer kid*
 

@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
     (Still learning some new programming stuff...)
 </p>
 
-> I'm currently focusing on web development and (soon) PHP. It's the kind of stuff I used to do when I was younger, so it's coming along pretty easily.
+> I'm currently try to use web development in an intentionally unconventional way. As of right now, things are going super weird.
 
 *I think I am a cool smart programmer kid*
 

@@ -8,19 +8,19 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><strong>
     I'm Valenciola!
     <br><br>
-    I did things mostly related to JavaScript and web development. Now I've seen a multitude of programming languages, and I'm trying to figure out which one to keep the most knowledge in. 
+    I did things mostly related to JavaScript and web development when I first started out. Now I've seen a multitude of programming languages and their uses, and I'm trying to figure out which one to keep the most knowledge in. Maybe I'll just specialize in more than one?
     <br><br>
     I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? Also I solve code puzzles sometimes :D
     <br><br>
     Anyway I think I do cool stuff and I have fun (after the debugging stage of course) :D
     <br><br>
 </strong>
-    (Still learning some new programming stuff...)
+    (Putting my knowledge to work and creating things...)
 </p>
 
-> I'm currently try to use web development in an intentionally unconventional way. As of right now, things are going super weird.
+> I'm currently using web development in an intentionally unconventional way. It's strange, but things are always looking up in the end.
 
-*I think I am a cool smart programmer kid*
+*I'm an entire programmer student now*
 
 <hr>
 

@@ -6,21 +6,19 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⭐  Welcome :D  ⭐</h2>
 
 <p align="center"><strong>
-    I'm Valenciola!
+    I'm Valerie!
     <br><br>
-    I did things mostly related to JavaScript and web development when I first started out. Now I've seen a multitude of programming languages and their uses, and I'm trying to figure out which one to keep the most knowledge in. Maybe I'll just specialize in more than one?
+    I did things mostly related to JavaScript and web development when I first started out. Now I've seen a multitude of programming languages and their uses, and I'm trying to figure out which one to keep the most knowledge in. Currently, I've been making use of my web development languages and Python.
     <br><br>
-    I mostly come up with crazy ideas to make crazy internal web programs that somehow work??? Also I solve code puzzles sometimes :D
+    I mostly turn websites into things that are more than just websites.
     <br><br>
-    Anyway I think I do cool stuff and I have fun (after the debugging stage of course) :D
+    I still have a lot to learn. I'm looking for an opportunity to make my education useful.
     <br><br>
 </strong>
-    (Putting my knowledge to work and creating things...)
+    (You know, putting my knowledge to work and creating things...)
 </p>
 
-> I'm currently using web development in an intentionally unconventional way. It's strange, but things are always looking up in the end.
-
-*I'm an entire programmer student now*
+> I'm planning on overhauling this soon to make something a little more like myself. But thank you for stopping by; come back soon!
 
 <hr>
 
@@ -38,6 +36,6 @@ _Thanks @RealStr1ke_
 <br>
 
 
-> Have a great day :)
+> Have a great day! Don't be afraid to try something new :)
 
 <br>

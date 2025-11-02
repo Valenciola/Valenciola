@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
     <br><br>
     I did things mostly related to JavaScript and web development when I first started out. Now I've seen a multitude of programming languages and their uses, and I'm trying to figure out which one to keep the most knowledge in. Currently, I've been making use of my web development languages and Python.
     <br><br>
-    I mostly turn websites into things that are more than just websites.
+    I mostly turned websites into things that are more than just websites, but lately I've taken an interest in game dev!
     <br><br>
     I still have a lot to learn. I'm looking for an opportunity to make my education useful.
     <br><br>

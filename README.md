@@ -19,23 +19,3 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 > I'm planning on overhauling this soon to make something a little more like myself. But thank you for stopping by; come back soon!
-
-<hr>
-
-### Cool GitHub Stats
-<p align="center">
-    <a href="https://metrics.lecoq.io/about/Valenciola">
-        <img align="center" src="https://github.com/Valenciola/Valenciola/blob/main/assets/main.svg" />
-    </a>
-</p>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Valenciola&theme=flat&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- ![Valenciola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valenciola&show_icons=true&theme=tokyonight&hide_border=true) -->
-
-_Thanks @RealStr1ke_
-
-<br>
-
-
-> Have a great day! Don't be afraid to try something new :)
-
-<br>
